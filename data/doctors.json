@@ -1,0 +1,22 @@
+[
+    {
+        "doctor_id": 1,
+        "name": "Dr. Ramesh Gupta",
+        "specialty": "Cardiologist"
+    },
+    {
+        "doctor_id": 2,
+        "name": "Dr. Sunita Sharma",
+        "specialty": "Dermatologist"
+    },
+    {
+        "doctor_id": 3,
+        "name": "Dr. Vijay Kumar",
+        "specialty": "Pediatrician"
+    },
+    {
+        "doctor_id": 4,
+        "name": "Dr. Sushma Desai",
+        "specialty": "Orthopedic"
+    }
+]
