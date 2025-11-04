@@ -1,0 +1,5 @@
+{
+  "name": "SmartClassroom AI",
+  "description": "An intelligent assistant to help find classroom availability, check faculty schedules, and view academic timetables using data from internal CSV files.",
+  "requestFramePermissions": []
+}
