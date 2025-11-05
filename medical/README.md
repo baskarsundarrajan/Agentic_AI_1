@@ -190,7 +190,6 @@ Visit **[http://localhost:5173](http://localhost:5173)**
 
 ## 🖼️ UI Preview
 
-> Replace the placeholders below with your own screenshots.
 
 | Screen                                           | Description                  |
 | ------------------------------------------------ | ---------------------------- |
