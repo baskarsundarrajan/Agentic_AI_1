@@ -1,7 +1,0 @@
-# file: requirements.txt
-
-fastapi
-uvicorn[standard]
-streamlit
-requests
-pandas
