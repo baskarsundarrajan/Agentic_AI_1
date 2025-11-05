@@ -1,0 +1,7 @@
+{
+  "name": "CrewAI Medical Assistant",
+  "description": "An AI-powered medical assistant application that provides symptom checking, appointment scheduling, patient data management, medication tracking, consultation summaries, and personalized health insights using intelligent AI crews.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
